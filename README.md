@@ -1,1 +1,1 @@
-Current Working version of Belastopol minecraft server
+Current Working version of Belastopol minecraft server-server
